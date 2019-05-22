@@ -1,0 +1,14 @@
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\bin\Debug\par4.exe.config
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\bin\Debug\par4.exe
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\bin\Debug\par4.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\obj\Debug\par4.csprojResolveAssemblyReference.cache
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\obj\Debug\par4.MDIParent2.resources
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\obj\Debug\par4.Properties.Resources.resources
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\obj\Debug\par4.csproj.GenerateResource.Cache
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\obj\Debug\par4.exe
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\obj\Debug\par4.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\obj\Debug\par4.Form1.resources
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\bin\Debug\capaPresentacion.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\bin\Debug\capaDatos.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\bin\Debug\capaPresentacion.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\par4\bin\Debug\capaDatos.pdb

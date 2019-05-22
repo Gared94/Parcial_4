@@ -1,0 +1,7 @@
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\capaPresentacion\bin\Debug\capaPresentacion.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\capaPresentacion\bin\Debug\capaPresentacion.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\capaPresentacion\bin\Debug\capaDatos.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\capaPresentacion\bin\Debug\capaDatos.pdb
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\capaPresentacion\obj\Debug\capaNegocio.csprojResolveAssemblyReference.cache
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\capaPresentacion\obj\Debug\capaPresentacion.dll
+c:\Users\Lab3\documents\visual studio 2013\Projects\Parcial4\capaPresentacion\obj\Debug\capaPresentacion.pdb
